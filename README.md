@@ -1,3 +1,6 @@
+# Priview 
+![Capture](https://github.com/indrajith11/JavaScript-Calculator/assets/66406472/50183462-e6f7-47d1-b568-7b202e3159a1)
+
 # JavaScript-Calculator
 This is a simple calculator web application built using HTML, CSS, and JavaScript. The calculator allows users to perform basic arithmetic operations, including addition, subtraction, multiplication, and division. It also supports percentage calculations and includes a delete (DEL) button for correcting input.
 
@@ -19,5 +22,4 @@ Reset the calculator with the clear (AC) button.
 # How to Run 
 Simply open the index.html file in a web browser to start using the calculator.
 
-# Priview 
-![Capture](https://github.com/indrajith11/JavaScript-Calculator/assets/66406472/50183462-e6f7-47d1-b568-7b202e3159a1)
+
