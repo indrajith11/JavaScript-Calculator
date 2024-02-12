@@ -12,8 +12,12 @@ Responsive design for a seamless user experience on various devices.
 Enter numeric values by clicking on the calculator buttons.
 Use the arithmetic buttons to perform calculations.
 Press the percentage button to convert a value to a percentage.
+
 Correct mistakes with the delete (DEL) button.
 Reset the calculator with the clear (AC) button.
 
 # How to Run 
 Simply open the index.html file in a web browser to start using the calculator.
+
+# Priview 
+![Capture](https://github.com/indrajith11/JavaScript-Calculator/assets/66406472/50183462-e6f7-47d1-b568-7b202e3159a1)
